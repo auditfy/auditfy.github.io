@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AuditFy</title>
-    <link>http://127.0.0.1:1313/</link>
+    <link>http://auditfy.net/</link>
     <description>Recent content on AuditFy</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://127.0.0.1:1313/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://auditfy.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://127.0.0.1:1313/about/</link>
+      <link>http://auditfy.net/about/</link>
       <pubDate>Thu, 08 Apr 2021 19:21:19 +0530</pubDate>
       
-      <guid>http://127.0.0.1:1313/about/</guid>
+      <guid>http://auditfy.net/about/</guid>
       <description>Who Are We? We are a comparatively new audit agency, by new we meant we are new, our team is full of experience, we are competing the older agencies in terms of our world class audit coverage and our experienced team, our team doesnt comprises the quality of coverages we provide both quality and quantity to our coverages, we provide a clear user friendly audit report so they can analyze and have confident on the smart contract.</description>
     </item>
     

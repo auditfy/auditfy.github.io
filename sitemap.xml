@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://127.0.0.1:1313/about/</loc>
+    <loc>http://auditfy.net/about/</loc>
     <lastmod>2021-04-08T19:21:19+05:30</lastmod>
   </url><url>
-    <loc>http://127.0.0.1:1313/</loc>
+    <loc>http://auditfy.net/</loc>
   </url><url>
-    <loc>http://127.0.0.1:1313/categories/</loc>
+    <loc>http://auditfy.net/categories/</loc>
   </url><url>
-    <loc>http://127.0.0.1:1313/tags/</loc>
+    <loc>http://auditfy.net/tags/</loc>
   </url>
 </urlset>
